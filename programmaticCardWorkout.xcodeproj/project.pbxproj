@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D50E4D928C18769002EAA8F /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50E4D828C18769002EAA8F /* CWButton.swift */; };
 		4DD7053C28C0606B0060E4D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD7053B28C0606B0060E4D6 /* AppDelegate.swift */; };
 		4DD7053E28C0606B0060E4D6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD7053D28C0606B0060E4D6 /* SceneDelegate.swift */; };
 		4DD7054528C060740060E4D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DD7054428C060740060E4D6 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D50E4D828C18769002EAA8F /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
 		4DD7053828C0606B0060E4D6 /* programmaticCardWorkout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = programmaticCardWorkout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DD7053B28C0606B0060E4D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4DD7053D28C0606B0060E4D6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				4DD7053B28C0606B0060E4D6 /* AppDelegate.swift */,
 				4DD7053D28C0606B0060E4D6 /* SceneDelegate.swift */,
 				4DD7055128C063D40060E4D6 /* CardSelectionVC.swift */,
+				4D50E4D828C18769002EAA8F /* CWButton.swift */,
 				4DD7054428C060740060E4D6 /* Assets.xcassets */,
 				4DD7054628C060740060E4D6 /* LaunchScreen.storyboard */,
 				4DD7054928C060740060E4D6 /* Info.plist */,
@@ -136,6 +139,7 @@
 				4DD7053C28C0606B0060E4D6 /* AppDelegate.swift in Sources */,
 				4DD7053E28C0606B0060E4D6 /* SceneDelegate.swift in Sources */,
 				4DD7055228C063D40060E4D6 /* CardSelectionVC.swift in Sources */,
+				4D50E4D928C18769002EAA8F /* CWButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
