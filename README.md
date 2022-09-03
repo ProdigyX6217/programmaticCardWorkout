@@ -1,3 +1,3 @@
 # programmaticCardWorkout
 
-SwiftUI Tutorial application from Sean Allen
+Swift Tutorial application from Sean Allen
