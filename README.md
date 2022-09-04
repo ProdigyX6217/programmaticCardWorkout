@@ -2,4 +2,4 @@
 
 Swift Tutorial application from Sean Allen
 
-![programmaticCardWorkout](https://user-images.githubusercontent.com/64049081/103698815-eb258180-4f6f-11eb-9aeb-759916047860.gif)
+![programmaticCardWorkout](file:///Users/studentlaptop_719_1/Downloads/Screen%20Recording%202022-09-04%20at%201.34.33%20PM.gif)
